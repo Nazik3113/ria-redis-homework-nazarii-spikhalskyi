@@ -21,6 +21,7 @@
     "optimist": ">=0.6.1",
     "prom-client": ">=11.3.0",
     "prometheus-gc-stats": ">=0.6.1",
+    "redis": "^3.0.2",
     "to-time": "git://github.com/ApelSYN/to-time.git"
   },
   "devDependencies": {

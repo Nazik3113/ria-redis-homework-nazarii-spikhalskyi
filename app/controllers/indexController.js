@@ -1,4 +1,4 @@
-const myDb = require('../managers/testDbManager'),
+const myDb = require('../managers/redisDbManager'),
       Joi = require('joi'),
 
     // Simple user schema, more info: https://github.com/hapijs/joi
