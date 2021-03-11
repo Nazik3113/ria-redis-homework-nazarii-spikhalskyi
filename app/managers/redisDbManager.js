@@ -80,7 +80,6 @@ module.exports = {
     /**
      * Remove record from redis DB
      * @param id
-     * @return {Promise}
      */
     removeId: function removeIdInDb(id) {
         deleteUsersAsync('users', id)
